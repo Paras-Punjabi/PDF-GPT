@@ -1,0 +1,13 @@
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-core==0.1.36
+langchain-experimental==0.0.55
+langchain-text-splitters==0.0.1
+pypdf==4.1.0
+PyPDF2==1.26.0
+faiss-cpu==1.8.0
+fastapi==0.104.1
+pydantic==1.10.8
+python-multipart
+rapidocr-onnxruntime
+langchain_google_genai

@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+    display :none !important;
+}
+
+.print{
+    background-color: #121315;
+    border-color: white;
+    color: white !important;
+    font-family: monospace;
+    font-size: 20px;
+    margin-top: 50px;
+}
