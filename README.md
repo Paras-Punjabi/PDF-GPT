@@ -30,3 +30,6 @@
 - Frontend Dev URL: <http://localhost:5173>
 - Frontend Prod URL: <http://localhost:4173>
 
+### Project Demo Video
+[Video Link](https://drive.google.com/file/d/1AZbCOBfJnaCnZz2bR9GeG573alBomlWE/view?usp=sharing)
+
